@@ -1,3 +1,2 @@
 # QuizMaster
 This is an android Quiz Application. User has to make an account using his email. Then he will be shown list of quizzes. Everyday a new quiz will be added. User can select a quiz which he wants to attempt. After the user selects the desired day's quiz, questions will be displayed, in the last as the user will submit the quiz, the score along with correct answers will be shown to him. For the signup functionality, Firebase Authentication has been used, while to store the quizzes and questions online, Cloud Firestore from Firebase has been used. To display the list if quizzes and options in the questions, recycler view is used.
-![ScreenShot](/screenshots/latest.png)
